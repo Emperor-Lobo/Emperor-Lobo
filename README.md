@@ -15,8 +15,8 @@ Each step built on the last — infrastructure monitoring, data analysis, and no
 
 - 🎓 Engineering degree in Networks & Information Systems Architecture — **EIGSI La Rochelle**
 - 📚 Progressing through **KodeKloud**: Shell Scripting → YAML/JSON Path → Docker → Ansible → Terraform → Kubernetes
-- 🎓 Master's in AI, Big Data & Development at **IPSSI Bordeaux** (2025–2028)
-- 🎓 Master's in Data & AI completed at **Nexa Digital School** (April 2026)
+- 🎓 Master's in AI, Big Data & Development at **IPSSI Bordeaux** 
+- 🎓 Master's in Data & AI completed at **Nexa Digital School** 
 - 🔧 Full DevOps lab: Vagrant + VirtualBox (Ubuntu 22.04), Docker, Ansible, Terraform
 - 🤖 Containerized pharma chatbot: LangGraph, FastAPI, React/CopilotKit, DuckDB, Ollama
 - 🎯 Looking for an **apprenticeship (alternance) or full-time role** in DevOps/Cloud Engineering or Network DevOps
